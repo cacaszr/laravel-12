@@ -96,7 +96,7 @@
     <div class="container">
         <div class="text-section">
             <h1>Hi there, I'm cacaszr</h1>
-            <p>D3 Teknik Informatika Student.<br>
+            <p>D3 Teknik Informatika PENS Student.<br>
             Crafting digital experiences with heart and logic.</p>
             <a href="#" class="btn-discover">Discover My Creations</a>
         </div>
